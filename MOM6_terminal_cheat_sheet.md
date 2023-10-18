@@ -9,10 +9,6 @@ This cheat sheet was created to take notes as I learn how to compile and run MOM
 
 
 # File Structure
-```mermaid
-  graph TB
-  
-```
 
 # Diag_Table
 To understand the data output file naming conventions, we first need to know how files are named.
