@@ -9,6 +9,7 @@ This cheat sheet was created to take notes as I learn how to compile and run MOM
 
 
 # File Structure
+![MOM6_organization.001.jpeg](https://github.com/kailauyeda/mom6_amoc_tropics/blob/main/MOM6_organization.001.jpeg)
 
 # Diag_Table
 To understand the data output file naming conventions, we first need to know how files are named.
